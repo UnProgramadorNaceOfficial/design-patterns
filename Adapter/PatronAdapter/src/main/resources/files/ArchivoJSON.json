@@ -1,0 +1,24 @@
+{
+  "users":[
+    {
+      "nombre":"Santiago",
+      "apellido":"Perez",
+      "edad":25
+    },
+    {
+      "nombre":"Anyi",
+      "apellido":"Hoyos",
+      "edad":23
+    },
+    {
+      "nombre":"Andrea",
+      "apellido":"Calle",
+      "edad":22
+    },
+    {
+      "nombre":"Daniel",
+      "apellido":"Posada",
+      "edad":29
+    }
+  ]
+}
