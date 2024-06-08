@@ -1,5 +1,5 @@
 Nombre;Apellido;Edad
 Santiago;Perez;25
+Daniel;Posada;27
 Anyi;Hoyos;23
-Andrea;Calle;22
-Daniel;Posada;29
+Andrea;Calle;21

@@ -1,0 +1,22 @@
+<People>
+    <Person>
+        <name>Santiago</name>
+        <lastName>Perez</lastName>
+        <age>25</age>
+    </Person>
+    <Person>
+        <name>Daniel</name>
+        <lastName>Posada</lastName>
+        <age>27</age>
+    </Person>
+    <Person>
+        <name>Anyi</name>
+        <lastName>Hoyos</lastName>
+        <age>23</age>
+    </Person>
+    <Person>
+        <name>Andrea</name>
+        <lastName>Calle</lastName>
+        <age>21</age>
+    </Person>
+</People>

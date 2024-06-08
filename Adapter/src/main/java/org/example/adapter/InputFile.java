@@ -1,6 +1,6 @@
-package org.adapter.adapter;
+package org.example.adapter;
 
-import org.adapter.model.Person;
+import org.example.model.Person;
 
 import java.io.InputStream;
 import java.util.List;

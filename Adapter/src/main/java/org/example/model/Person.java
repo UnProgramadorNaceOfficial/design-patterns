@@ -1,15 +1,14 @@
-package org.adapter.model;
+package org.example.model;
 
 public class Person {
-
     private String name;
     private String lastName;
-    private int age;
+    private Integer age;
 
     public Person() {
     }
 
-    public Person(String name, String lastName, int age) {
+    public Person(String name, String lastName, Integer age) {
         this.name = name;
         this.lastName = lastName;
         this.age = age;
@@ -31,11 +30,11 @@ public class Person {
         this.lastName = lastName;
     }
 
-    public int getAge() {
+    public Integer getAge() {
         return age;
     }
 
-    public void setAge(int age) {
+    public void setAge(Integer age) {
         this.age = age;
     }
 
@@ -45,6 +44,6 @@ public class Person {
                 "name='" + name + '\'' +
                 ", lastName='" + lastName + '\'' +
                 ", age=" + age +
-                '}' + '\n';
+                '}' + "\n";
     }
 }

@@ -1,24 +1,6 @@
-{
-  "users":[
-    {
-      "nombre":"Santiago",
-      "apellido":"Perez",
-      "edad":25
-    },
-    {
-      "nombre":"Anyi",
-      "apellido":"Hoyos",
-      "edad":23
-    },
-    {
-      "nombre":"Andrea",
-      "apellido":"Calle",
-      "edad":22
-    },
-    {
-      "nombre":"Daniel",
-      "apellido":"Posada",
-      "edad":29
-    }
-  ]
-}
+[
+  {"Nombre": "Santiago", "Apellido": "Perez", "Edad": 25},
+  {"Nombre": "Daniel", "Apellido": "Posada", "Edad": 27},
+  {"Nombre": "Anyi", "Apellido": "Hoyos", "Edad": 23},
+  {"Nombre": "Andrea", "Apellido": "Calle", "Edad": 21}
+]
